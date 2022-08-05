@@ -44,8 +44,8 @@ const App = () => (
                level={5}
                style={{ color: "white", textAlign: "center" }}
             >
-               Copyright © 2021
-               <Link to="/">Cryptoverse Inc.</Link> <br />
+               2022@
+               <Link to="/">152235865101638-dts-final-project</Link> <br />
                All Rights Reserved.
             </Typography.Title>
             <Space>
